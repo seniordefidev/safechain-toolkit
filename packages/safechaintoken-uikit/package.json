@@ -1,14 +1,14 @@
 {
   "name": "@safetoken/uikit",
-  "version": "0.2.5",
-  "description": "Set of UI components for crosswise projects",
+  "version": "0.0.1",
+  "description": "Set of UI components for safechain projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/crosswise-finance/crosswise-toolkit/tree/master/packages/crosswise-uikit",
+  "repository": "https://github.com/seniordefidev/safechain-toolkit/tree/main/packages/safechaintoken-uikit",
   "license": "MIT",
   "scripts": {
     "start": "yarn storybook",

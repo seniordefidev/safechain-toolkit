@@ -1,20 +1,20 @@
 {
-  "name": "crosswise-toolkit",
+  "name": "safechain-toolkit",
   "version": "1.0.0",
-  "description": "Crosswise frontend packages",
+  "description": "Safechain frontend packages",
   "private": true,
   "workspaces": [
     "packages/*"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/crosswise-finance/crosswise-toolkit.git"
+    "url": "git+https://github.com/seniordefidev/safechain-toolkit.git"
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/crosswise-finance/crosswise-toolkit/issues"
+    "url": "https://github.com/seniordefidev/safechain-toolkit/issues"
   },
-  "homepage": "https://github.com/crosswise-finance/crosswise-toolkit#readme",
+  "homepage": "https://github.com/seniordefidev/safechain-toolkit#readme",
   "scripts": {
     "build": "lerna run build",
     "build:win": "lerna run build:win",
