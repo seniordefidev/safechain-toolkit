@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.6](https://github.com/seniordefidev/safechain-toolkit/compare/@safetoken/uikit@0.0.4...@safetoken/uikit@0.0.6) (2021-12-02)
+
+**Note:** Version bump only for package @safetoken/uikit
+
+
+
+
+
 ## [0.0.4](https://github.com/seniordefidev/safechain-toolkit/compare/@safetoken/uikit@0.0.2...@safetoken/uikit@0.0.4) (2021-12-02)
 
 **Note:** Version bump only for package @safetoken/uikit
